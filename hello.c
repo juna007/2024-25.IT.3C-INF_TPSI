@@ -10,7 +10,7 @@ int NOT(int a) {
 int AND(int a, int B) {
     // Il valore di ritorno della funzione
     // TODO aggiungere l'espressione matematica per soddisfare la porta AND
-    return 1337;
+    return a*B;
 }
 
 // Funzione per simulare la porta OR
